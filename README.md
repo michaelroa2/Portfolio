@@ -9,6 +9,9 @@ Hagiographic work detailing the life and context of Walatta Petros
 ### [Pending Title]
 
 Overview of the 1960's Algerian Revolution and its afters effects
+### Banyamuilenge Paper
+
+[Pending desc]
 ## Technical Writings
 ### NASA Swarmathon Handbook
 
