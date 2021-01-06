@@ -2,10 +2,10 @@
 ## Historical Writings
 ### Euromissile Crisis
 
-Political analysis of the Euromissle Crisis, 1979-1983
+Political analysis of the Euromissle Crisis involving several NATO nations from 1979-1983
 ### Over Holy Time and Space
 
-Hagiographic work detailing the life and context of Walatta Petros
+Hagiographic work detailing the life and context of Walatta Petros, an Ethiopian religious figure
 ### Banyamulenge Paper
 
 Ethnographic analysis of the Banyamulenge people with respect to the Congo Wars
