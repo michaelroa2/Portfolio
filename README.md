@@ -6,12 +6,9 @@ Political analysis of the Euromissle Crisis, 1979-1983
 ### Over Holy Time and Space
 
 Hagiographic work detailing the life and context of Walatta Petros
-### [Pending Title]
+### Banyamulenge Paper
 
-Overview of the 1960's Algerian Revolution and its afters effects
-### Banyamuilenge Paper
-
-[Pending desc]
+Ethnographic analysis of the Banyamulenge people with respect to the Congo Wars
 ## Technical Writings
 ### NASA Swarmathon Handbook
 
