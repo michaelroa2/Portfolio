@@ -1,4 +1,21 @@
 # Writing Portfolio
+## Technical Writings
+### NASA Swarmathon Handbook
+
+Manual detailing basic swarm robotics concepts and how to begin implementation
+### NIST G-Code Tool Report
+
+Paper reviewing the effects of a custom made tool for the NIST SMS Test Bed
+### ServiceNow App Engine Studio
+
+https://docs.servicenow.com/bundle/rome-application-development/page/build/app-engine-studio/concept/aes-overview.html - Documentation for the App Engine Studio Product @ ServiceNow
+### ServiceNow UI Builder
+
+https://docs.servicenow.com/bundle/rome-application-development/page/administer/ui-builder/concept/ui-builder-overview.html - Documentation for the UI-Builder Product @ ServiceNow
+### ServiceNow UI Builder
+
+https://docs.servicenow.com/bundle/rome-customer-service-management/page/product/customer-service-management/concept/migration-agent-chat.html - Documentation for the Agent Chat Feature @ ServiceNow
+
 ## Historical Writings
 ### Euromissile Crisis
 
@@ -9,10 +26,3 @@ Hagiographic work detailing the life and context of Walatta Petros, an Ethiopian
 ### Banyamulenge Paper
 
 Ethnographic analysis of the Banyamulenge people with respect to the Congo Wars
-## Technical Writings
-### NASA Swarmathon Handbook
-
-Manual detailing basic swarm robotics concepts and how to begin implementation
-### NIST G-Code Tool Report
-
-Paper reviewing the effects of a custom made tool for the NIST SMS Test Bed
