@@ -14,7 +14,7 @@ https://docs.servicenow.com/bundle/rome-application-development/page/build/app-e
 https://docs.servicenow.com/bundle/rome-application-development/page/administer/ui-builder/concept/ui-builder-overview.html - Documentation for the UI-Builder Product @ ServiceNow
 ### ServiceNow UI Builder
 
-https://docs.servicenow.com/bundle/rome-customer-service-management/page/product/customer-service-management/concept/migration-agent-chat.html - Documentation for the Agent Chat Feature @ ServiceNow
+https://docs.servicenow.com/bundle/rome-servicenow-platform/page/administer/workspace/concept/agent-workspace-chat.html - Documentation for the Agent Chat Feature @ ServiceNow
 
 ## Historical Writings
 ### Euromissile Crisis
